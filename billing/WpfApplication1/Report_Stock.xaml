@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication1.Report_Stock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Report_Stock" Height="900" Width="900">
+    <Grid>
+        <Image Source="/WpfApplication1;component/Ima/download%20%281%29.jpg" Stretch="UniformToFill"></Image>
+        <StackPanel  MinWidth=" 900" Height="84" MaxWidth=" 2000" Background="Aqua" VerticalAlignment="Top" Margin="0,0,-22,0">
+            <TextBlock  Foreground="White"  FontSize="50" Width="497" Name="textBlock1" Text="Report Company" />
+        </StackPanel>
+        <GroupBox Header="SEARCH" Background="Aqua"   HorizontalAlignment="Left" Margin="5,209,0,0"  Name="groupBox1" VerticalAlignment="Top" Width="1400">
+            <Grid>
+
+                <Label Content="Compant Name : " FontSize="20" Foreground="White" Height="50" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label1" VerticalAlignment="Top" />
+                <TextBox Height="28" HorizontalAlignment="Left" Margin="217,23,0,0" Name="textBox13" VerticalAlignment="Top" Width="180" />
+                <DataGrid AutoGenerateColumns="False"  HorizontalAlignment="Left" Margin="0,63,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="1260" />
+                <Button Content="Serch" Height="23" HorizontalAlignment="Left" Margin="448,23,0,0" Name="button6" VerticalAlignment="Top" Width="75" Click="button6_Click" />
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

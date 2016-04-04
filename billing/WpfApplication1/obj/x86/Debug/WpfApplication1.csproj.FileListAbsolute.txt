@@ -1,0 +1,698 @@
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\aboutus.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Export.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\import.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Export.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\import.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Company.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Company.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\unit.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\unit.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Brand.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Group.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Tax.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Brand.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Group.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Tax.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\updatelogin.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Purchase.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Product.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Setting.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Setting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\RCustomer.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\RSupplier.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Group.baml
+C:\Users\sp singh\Desktop\Creatographs\Billing\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\aboutus.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Brand.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Company.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Export.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Group.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\import.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Purchase.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\RCustomer.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Group.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Product.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\RSupplier.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Setting.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Tax.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\unit.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\updatelogin.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Brand.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Company.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Export.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Group.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\import.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Setting.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Tax.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\unit.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RAJ\Documents\Visual Studio 2010\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+D:\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Company.baml
+D:\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+D:\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Export.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Group.baml
+D:\billing\WpfApplication1\obj\x86\Debug\import.baml
+D:\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+D:\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+D:\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+D:\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+D:\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+D:\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+D:\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+D:\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+D:\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+D:\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+D:\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+D:\billing\WpfApplication1\obj\x86\Debug\unit.baml
+D:\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+D:\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\billing\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\billing\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\Creatographs\dj\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\sp singh\Desktop\New folder (13)\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\sp singh\Desktop\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\project\WPF\billing\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.baml
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\aboutus.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Brand.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ChangeDataFromat.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Company.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CostomerDetails.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\CurrencySetting.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Export.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Group.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\import.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\LanguageSetting.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\logingNewuser.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PrinterSetting.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\ProductDetails.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Purchase.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseInvoice.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\PurchaseReturn.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RCustomer.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Brand.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Group.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Product.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseBillDetail.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_PurchaseDetail.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesBillsSummary.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_SalesDetail.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Stock.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Tasc.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Report_Unit.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\RSupplier.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesInvoice.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesMaster.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SalesReturn.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Setting.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\SustomerDetails.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Tax.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\TaxSetting.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\unit.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\updatelogin.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\Window2.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Dropboxdata\WPF\project billing 4jul2014\billing\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache

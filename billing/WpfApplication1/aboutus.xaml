@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApplication1.aboutus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="aboutus" Height="800" Width="800">
+    <Grid>
+        <Image Source="/WpfApplication1;component/Ima/images.jpg" Stretch="UniformToFill"></Image>
+        <FlowDocumentReader>
+            <FlowDocument>
+                <Paragraph >
+
+                    Customer centric value offerings establish the difference between services and services+. The difference comes from unique customer insights and value propositions backed by competencies and validated by customer experience.
+              
+                </Paragraph>
+                <Paragraph>
+                    Economic turbulence has  forced CIOs across the world to redefine their priorities and business objectives. Some of them include deriving maximum value from the existing IT investments  moving beyond incident management and leveraging technology to create new products and business models. At creatographs, we have a 'Thinking-IT' framework which addresses four objectives:
+                    
+                </Paragraph>
+                <Paragraph>
+                    1 IT Transformation - Re-engineering business processes or service architectures
+Technology Transformation - disruptive innovation by radically changing the way products and services are developed and delivered
+Operations Transformation - by significantly increasing the value derived from current IT investments and by enabling a real time and integrated transaction monitoring - resulting in high performance through a new form of operating various business elements
+Business Transformation - through high focus on domain trends, needs and solutions
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfApplication1.PrinterSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PrinterSetting" Height="900" Width="900">
+    <Grid>
+        <Image Source="/WpfApplication1;component/Ima/download%20%281%29.jpg" Stretch="UniformToFill"></Image>
+        <StackPanel  MinWidth=" 900" Height="84" MaxWidth=" 2000" Background="Aqua" VerticalAlignment="Top" Margin="0,0,-22,0">
+            <TextBlock  Foreground="White"  FontSize="50" Width="346" Name="textBlock1" Text="Printer Setting" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,66 @@
+﻿<Window x:Class="WpfApplication1.SalesInvoice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SalesInvoice" Height="900" Width="900">
+    <Grid>
+        <Image Source="/WpfApplication1;component/Ima/download%20%281%29.jpg" Stretch="UniformToFill"></Image>
+        <StackPanel MinWidth=" 900" Height="84" MaxWidth=" 2000" Background="Aqua" VerticalAlignment="Top" Margin="0,0,-22,0" >
+            <TextBlock  Foreground="White"  FontSize="50" Width="380" Name="textBlock1" Text="Purchase Invoice" />
+        </StackPanel>
+
+
+        <StackPanel  MinWidth="900"  MaxWidth="2000" HorizontalAlignment="Center"   Margin="0,90,0,9" Width="778" >
+            <Label  Content="Date  :" FontSize="20" Foreground="White" Height="42" Margin="-800,0,0,0" Name="label1" Width="80" />
+            <DatePicker Name="DATEE" Margin="-530,-32,0,0" Height="29" Width="174"></DatePicker>
+            <Label Foreground="White" FontSize=" 20" Content="Bill No  : " Height="42" Name="label2"   Width="96" Margin="-210,-35,0,0" />
+            <TextBox Height="28" Name="textBox1" Width="190" Margin=" 60,-45,0,0" />
+            <Label  Content="Party Name :" FontSize="20" Foreground="White" Height="42" Margin=" -750,0,0,0" Name="label3" Width="137" />
+            <TextBox Height="28" Name="textBox2" Width="413" Margin="-210,-40,0,0 " />
+            <Label FontSize=" 17" Foreground="White"  Content="GR NO  :" Height="28" Name="label9" Width="63" Margin=" 500,-130,0,0" />
+            <Label FontSize=" 17 " Foreground="White"  Content="TRP  : " Height="28" Name="label10" Width=" 63" Margin="500,-60,0,0" />
+            <TextBox  Height="28" Name="textBox7" Width="120" Margin=" 690,-130,0,0"/>
+            <TextBox Height="28" Name="textBox8" Width="120" Margin  ="690,-60,0,0" />
+        </StackPanel>
+        <StackPanel  MinWidth="900" MaxWidth="2000" HorizontalAlignment="Center" Margin="-10,198,-22,201" Width="900" >
+            <!--<DataGrid  MinWidth="900" MaxWidth="1800" Margin=" 0,80,0,0" AutoGenerateColumns="False" Height="424" Name="dataGrid1" Width="900" />-->
+            <DataGrid   MinWidth="900" MaxWidth="1800" Margin=" 0,80,0,0"  Height="424" Name="dataGrid1" Width="900" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="100" Header="Date" Binding="{Binding Date}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="Bill_NO" Binding="{Binding Bill_NO }"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="Party_Name" Binding="{Binding Party_Name}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="150" Header="GR_NO" Binding="{Binding GR_NO}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="TRP" Binding="{Binding TRP}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="Discription_of_Goods" Binding="{Binding Discription_of_Goods}"></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="Qty" Binding="{Binding Qty}" ></DataGridTextColumn>
+                    <DataGridTextColumn Width="100" Header="Price" Binding="{Binding Price}"></DataGridTextColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+        <StackPanel  MinWidth="900" MaxWidth="2000"  Margin="-10,-100,-22,201" Width="900" Height=" 80" >
+            <Label Foreground="White"  FontSize="17" Content="Discription of Goods" Width="164" Height="34" Name="label4" Margin=" -730,10,0,0" />
+            <Label Foreground="White"  FontSize=" 17" Width="66" Content="Qty" Height="35" Name="label5" Margin=" -350,-33,0,0" />
+            <Label Foreground="White"  Content="Price" FontSize=" 17" Width="72" Height="28" Name="label8" Margin=" 40,-33,0,0" />
+            <TextBox Height="28" Name="comboBox1" Width="174" Margin=" -710,0,0,0" />
+            <TextBox Height="28" Name="textBox5" Width="120"  Margin=" -280,-29,0,0"/>
+            <TextBox Height="28" Name="textBox6" Width="120" Margin="90,-29,0,0" />
+            <Button Content="Add" Height="28" Name="button1" Width="75" Margin=" 380,-29,0,0" Click="button1_Click" />
+        </StackPanel>
+
+
+        <StackPanel MinWidth="900"  MaxWidth="2000" HorizontalAlignment="Center"   Margin="30,0,20,0"  VerticalAlignment="Bottom  " Height="100" Width="900">
+            <Label Content="Total Quantity   :" FontSize="20" Foreground="White" Height="42" Width=" 165" Name="label6" Margin=" 250,0,0,0"  />
+            <Label Content="Total price  :" FontSize="20" Foreground="White" Height="42" Width=" 165" Name="label7" Margin=" 250,0,0,0"  />
+            <TextBox Height="23" Name="textBox3" Width="187" Margin=" 650,-120,0,0" />
+            <TextBox Height="23" Name="textBox4" Width="187" Margin="  650,-45,0,0" />
+            <StackPanel   MaxWidth="2000" HorizontalAlignment="Center"   Margin="-430,-80,20,0"  VerticalAlignment="Bottom  " Height="76" Width="444" >
+                <Button FontSize=" 20" Content="Save" Height="30" Name="button8" Width="75" Margin=" -300,27,0,0" Click="button8_Click" />
+                <Button FontSize=" 20" Content="Cancle" Height="30" Name="button9" Width="75" Margin=" -100,-29,0,0" Click="button9_Click" />
+                
+            </StackPanel>
+
+        </StackPanel >
+
+
+    </Grid>
+</Window>

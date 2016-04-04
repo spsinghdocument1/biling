@@ -1,0 +1,76 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="3000"  Width="3000">
+    <Grid DataContext="{Binding}">
+        <Image Source="/WpfApplication1;component/Ima/download%20%281%29.jpg" Stretch="UniformToFill"></Image>
+        <Menu Background="#66CCFF" HorizontalAlignment="Left" Width="3000" VerticalAlignment="Top"  Height="30" DockPanel.Dock="Top">
+            <MenuItem Header="Master" Width="100">
+                <MenuItem Header="Company Details" Click="company_click"></MenuItem>
+                <MenuItem Header="Costomer Details" Click="costomerDetails_click"></MenuItem>
+                <MenuItem Header="Supplier Details" Click="SustomerDetails_click"></MenuItem>
+                <MenuItem Header="Unit Name" Click="unitName_click"></MenuItem>
+                <MenuItem Header="Group" Click="Group_click"></MenuItem>
+                <MenuItem Header="Brand" Click="Brand_click"></MenuItem>
+                <MenuItem Header="Tax" Click="Tax_click"></MenuItem>
+                <MenuItem Header="Product Details" Click="ProductDetails_click"></MenuItem>
+                <MenuItem Header="Exit"  Click="Exit_click">
+                    <MenuItem.Icon>
+                        <Image Source="/WpfApplication1;component/Ima/500px-Crystal_Clear_action_exit.svg.png"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Inventory" Width="100">
+                <MenuItem Header="Purchase" Click="Purchase_click"></MenuItem>
+                <MenuItem Header="Purchase Return" Click="PurcReturn_click"></MenuItem>
+                <MenuItem Header="Seles Master" Click="Sale_click"></MenuItem>
+                <MenuItem Header="Seles Return" Click="SaleR_click"></MenuItem>
+                <MenuItem Header="Exit" Click="Exit_click">
+                    <MenuItem.Icon>
+                        <Image Source="/WpfApplication1;component/Ima/500px-Crystal_Clear_action_exit.svg.png"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Setting" Width="100">
+                <MenuItem Header="Stock Settings" Click="sto_setting_click"></MenuItem>
+                <MenuItem Header="Change Data Format" Click="cange_setting_click"></MenuItem>
+                <MenuItem Header="Change Background" Click="cange_setting_click"></MenuItem>
+                <MenuItem Header="Printer Stettngs" Click="printer_setting_click"></MenuItem>
+                <MenuItem Header="Currency Setting" Click="Currency_setting_click" ></MenuItem>
+                <MenuItem Header="Tax Settings" Click="TaxS_setting_click"></MenuItem>
+                <MenuItem Header="Language Settings" Click="LangeS_setting_click"></MenuItem>
+                <MenuItem Header="Exit" Click="Exit_click">
+                    <MenuItem.Icon>
+                        <Image Source="/WpfApplication1;component/Ima/500px-Crystal_Clear_action_exit.svg.png"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Reports" Width="100">
+                <MenuItem Header="Customer" Click="REcustomer_click"></MenuItem>
+                <MenuItem Header="Supplier" Click="REsu_click"></MenuItem>
+                <MenuItem Header="Unit" Click="Unt_click"></MenuItem>
+                <MenuItem Header="Group" Click="Rgroup_click"></MenuItem>
+                <MenuItem Header="Brand" Click="Rbrand_click"></MenuItem>
+                <MenuItem Header="TAX" Click="RTac_click"></MenuItem>
+                <MenuItem Header="Product" Click="Rpro_click"></MenuItem>
+                <MenuItem Header="Company Report" Click="Rpstock_click"></MenuItem>
+                <MenuItem Header="Purchase Detail" Click="rPurch_click"></MenuItem>
+                <!--<MenuItem Header="Purchase Bill Summary" Click="Rbpurch_click"></MenuItem>-->
+                <MenuItem Header="Sales Detail" Click="Rsaled_click"></MenuItem>
+                <!--<MenuItem Header="Sales Bill Summary" Click="Rsabilsumer_click"></MenuItem>-->
+                <MenuItem Header="Exit" Click="Exit_click">
+                    <MenuItem.Icon>
+                        <Image Source="/WpfApplication1;component/Ima/500px-Crystal_Clear_action_exit.svg.png"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Export" Width="100" Click="EExport_click"></MenuItem>
+            <MenuItem Header="Import" Width="100" Click="iimport_click"></MenuItem>
+            <MenuItem Header="Logout" Width="100" Click="Logout_click"></MenuItem>
+            <MenuItem Header="About_us" Width="100" Click="about_click"></MenuItem>
+            <MenuItem Header="Windows" Width="100" Click="window_click">
+                <!--<Frame Source="aboutus.xaml" NavigationUIVisibility="Hidden" />-->
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

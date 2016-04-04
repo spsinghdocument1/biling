@@ -1,0 +1,73 @@
+﻿<Window x:Class="WpfApplication1.Tax"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tax" Height="900" Width="1270">
+    <Grid>
+        <Image Source="/WpfApplication1;component/Ima/download%20%281%29.jpg" Stretch="UniformToFill"></Image>
+        <StackPanel MinWidth="1400" Height="120" Margin="0,-40,0,0"  MaxWidth="2000" HorizontalAlignment="Center" Background="Aqua" VerticalAlignment="Top">
+            <TextBlock HorizontalAlignment="Center" Foreground="White" Margin="0,30,0,30"  FontSize="80">Tax</TextBlock>
+        </StackPanel>
+        <StackPanel Height="100" Margin="10,90,0,600">
+            <StackPanel Height="50" HorizontalAlignment="Left" Margin="00,0,0,0" Width="500" >
+                <Label Content="Tax Name : "  Height="50" FontSize="20" Foreground="White" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" />
+                <TextBox Height="30" Width="300" Name="textname" Margin="50,-45,0,0" VerticalAlignment="Top"/>
+
+            </StackPanel>
+            <StackPanel Height="50" Margin="550,-50,0,0">
+                <Label Content="Tax % : "  Height="50" FontSize="20" Foreground="White" HorizontalAlignment="Left" Name="label13" VerticalAlignment="Top" />
+            <TextBox Height="30" Width="300" Name="textUnit13" Margin="-200,-45,-90,0" VerticalAlignment="Top"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Height="500" Margin="20,40,0,0">
+
+            <GroupBox Header="SEARCH" Background="Aqua" VerticalAlignment="Top" Width="1220"  HorizontalAlignment="Left" >
+                <Grid>
+                    <Label Content="Group Name : "  Height="50" FontSize="20" Foreground="White" HorizontalAlignment="Left" Name="label2" VerticalAlignment="Top" />
+                    <TextBox Height="30" Width="300" Name="GRouptname" Margin="-609,10,0,0" VerticalAlignment="Top"/>
+                    <Button Height="38" Margin="0,-510,600,0" Width="81" Click="Button_Click" HorizontalAlignment="Right">Search</Button>
+                    <DataGrid Margin="0,60,0,0" AutoGenerateColumns="False" HorizontalAlignment="Left"  Name="dataGrid1" VerticalAlignment="Top" Width="1200" Height="490"/>
+                </Grid>
+            </GroupBox>
+
+        </StackPanel>
+        <StackPanel Margin="0,690,0,0">
+            <WrapPanel  VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button   Height="23" HorizontalAlignment="Left"  Margin="-48,23,0,0" Name="button12" VerticalAlignment="Top" Width="75" Click="Button12_Click">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfApplication1;component/Ima/save.jpg" ImageFailed="Image_ImageFailed"></Image>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+                <Button   Height="23" HorizontalAlignment="Left"  Margin="18,23,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="Button1_Click">
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfApplication1;component/Ima/clear.jpg" ImageFailed="Image_ImageFailed_1"></Image>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+                <Button   Height="23" HorizontalAlignment="Left" Click="ButtonDelete_Click"  Margin="12,23,0,0" Name="button2" VerticalAlignment="Top" Width="75" >
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfApplication1;component/Ima/delete.jpg" ImageFailed="Image_ImageFailed_2"></Image>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+                <Button   Height="23" HorizontalAlignment="Left"  Margin="25,23,0,0" Name="button3" VerticalAlignment="Top" Width="75" >
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfApplication1;component/Ima/Print1.jpg" ImageFailed="Image_ImageFailed_3"></Image>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+                <Button   Height="23" HorizontalAlignment="Left"  Margin="20,23,0,0" Name="button4" VerticalAlignment="Top" Width="75" Click="Button4_Click" >
+                    <Button.Content>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="/WpfApplication1;component/Ima/Untitled.jpg" ImageFailed="Image_ImageFailed_4"></Image>
+                        </StackPanel>
+                    </Button.Content>
+                </Button>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>
